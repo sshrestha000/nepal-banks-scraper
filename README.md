@@ -66,8 +66,7 @@ nepal-banks-scraper/
 │
 ├── README.md
 ├── nepal_banks_scraper.py    ← main scraper script
-└── data/
-    └── ClassA_Commercial_Banks.csv    ← sample output
+└── ClassA_Commercial_Banks.csv    ← sample output
 ```
 
 ---
